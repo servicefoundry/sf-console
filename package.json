@@ -42,6 +42,18 @@
     "protractor": "4.0.9",
     "ts-node": "1.2.1",
     "tslint": "3.13.0",
-    "typescript": "2.0.2"
+    "typescript": "2.0.2",
+    "rimraf": "^2.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/servicefoundry/sf-console.git"
+  },
+  "bugs": {
+    "url": "https://github.com/servicefoundry/sf-console/issues"
+  },
+  "engines": {
+    "node": ">= 4.2.1",
+    "npm": ">= 3"
   }
 }
